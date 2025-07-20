@@ -1,0 +1,12 @@
+{
+  "model": "mistral",
+  "allowed_roots": [
+    "Downloads",
+    "C:\\Users\\visha\\OneDrive\\Desktop\\Python\\Prectice",
+    "C:\\Users\\visha\\Downloads\\Jarvis_Hybrid_AutoExtend",
+    "C:\\Users\\visha\\Downloads\\Jarvis_Hybrid_AutoExtend\\jarvis_hybrid"
+  ],
+  "console_echo": true,
+  "allow_system_actions": true,
+  "allow_web_open": true
+}
